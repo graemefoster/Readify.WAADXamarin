@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Features/Hub.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iosDemoViewController.cs" Line="11" Column="34" />
+      <File FileName="Features/Hub.cs" Line="35" Column="26" />
+      <File FileName="../Timesheet.Client.Shared/ResourceAccess/ApiClient.cs" Line="8" Column="49" />
+      <File FileName="packages.config" Line="3" Column="10" />
+      <File FileName="../Timesheet.Client.Shared/Features/Timesheets/TimesheetsViewModel.cs" Line="15" Column="36" />
+      <File FileName="../Timesheet.Client.Shared/Features/Timesheets/INavigator.cs" Line="8" Column="1" />
+      <File FileName="../Timesheet.Client.Shared/Features/Timesheets/TimesheetViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Auth" expanded="True">
+            <Node name="Xamarin.Auth.PCL" expanded="True" />
+          </Node>
+          <Node name="iosDemo" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Features" expanded="True">
+              <Node name="Hub.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="Timesheet.Client.Shared" expanded="True">
+            <Node name="Features" expanded="True">
+              <Node name="Timesheets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
